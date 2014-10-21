@@ -18,7 +18,7 @@ public class CurrencyController
 	
 	public class CalculationListener implements ActionListener
 	{
-
+		//Something
 		@Override
 		public void actionPerformed(ActionEvent e)
 		{
